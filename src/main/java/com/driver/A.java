@@ -1,6 +1,6 @@
 package com.driver;
 
-public static class A{
+public class A{
 
 
     public String meth()
