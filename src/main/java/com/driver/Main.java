@@ -23,6 +23,7 @@ public class Main {
 
       B bObj= new B();
        bObj.meth();
+       bObj.meth();
 
 
 
