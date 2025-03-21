@@ -5,8 +5,14 @@ public class Main {
    public static void main(String[] args)
    {
 
-      B bObj= new B();
-       bObj.meth();
+      B obj= new B();
+      obj.meth();       // returning class A string
+
+      obj.meth();
+
+
+
+
 
 
 
