@@ -26,6 +26,7 @@ public class Main {
       B obj= new B();
       obj.meth();       // returning class A method string but after creating class b method it will return its method string
 
+       obj.meth();
     // System.out.println( obj.meth());
 
 
